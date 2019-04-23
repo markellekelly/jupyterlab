@@ -205,6 +205,9 @@
       "path": "../theme-light-extension"
     },
     {
+      "path": "../jupyterlab-toc"
+    },
+    {
       "path": "../tooltip"
     },
     {
